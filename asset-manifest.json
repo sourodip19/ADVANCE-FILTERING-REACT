@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sourodip19/ADVANCE-FILTERING-REACT.git/static/css/main.807c4f09.css",
-    "main.js": "/sourodip19/ADVANCE-FILTERING-REACT.git/static/js/main.cee0f31f.js",
-    "index.html": "/sourodip19/ADVANCE-FILTERING-REACT.git/index.html",
-    "main.807c4f09.css.map": "/sourodip19/ADVANCE-FILTERING-REACT.git/static/css/main.807c4f09.css.map",
-    "main.cee0f31f.js.map": "/sourodip19/ADVANCE-FILTERING-REACT.git/static/js/main.cee0f31f.js.map"
+    "main.css": "/static/css/main.807c4f09.css",
+    "main.js": "/static/js/main.cee0f31f.js",
+    "index.html": "/index.html",
+    "main.807c4f09.css.map": "/static/css/main.807c4f09.css.map",
+    "main.cee0f31f.js.map": "/static/js/main.cee0f31f.js.map"
   },
   "entrypoints": [
     "static/css/main.807c4f09.css",
