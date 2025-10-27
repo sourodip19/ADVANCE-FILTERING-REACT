@@ -1,4 +1,4 @@
-import {FiHeart} from 'react-icons/fi'
+import {FiHeart} from 'react-icons/fi';
 import {AiOutlineShoppingCart , AiOutlineUserAdd} from "react-icons/ai";
 import React from 'react'
 import './Navbar.css';
